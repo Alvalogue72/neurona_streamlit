@@ -109,8 +109,15 @@ A continuación se muestran ejemplos de la aplicación en funcionamiento:
    ```
 
 2. **Ejecutar el contenedor:**
+   
+   En Linux/Mac:
    ```bash
    docker run -p 8501:8501 -v $(pwd):/app neurona-streamlit
+   ```
+   
+   En Windows PowerShell:
+   ```powershell
+   docker run -p 8501:8501 -v ${PWD}:/app neurona-streamlit
    ```
 
 3. **Acceder a la aplicación:**
