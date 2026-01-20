@@ -2,6 +2,8 @@
 
 Una aplicación interactiva desarrollada con Streamlit que simula el comportamiento de una neurona artificial.
 
+Prueba la aplicación en vivo [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://holamundo-neurona.streamlit.app/)
+
 ## Descripción
 
 Esta aplicación web permite experimentar con los conceptos fundamentales de las redes neuronales artificiales de manera visual e interactiva. Esta herramienta permite ajustar parámetros como entradas, pesos y sesgos para observar cómo estos afectan la salida de la neurona.
