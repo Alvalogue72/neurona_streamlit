@@ -106,4 +106,4 @@ Este proyecto es de código abierto y está disponible para uso educativo.
 
 ## Autor
 
-Desarrollado por Alvalogue72
+Desarrollado por Álvaro López Guerrero
